@@ -3,7 +3,7 @@
 - 🌱 Estudando MySQL
 - 😄 Pronouns: ele/dele
 
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
 
 
 
