@@ -1,6 +1,6 @@
 ### Olá! Eu sou o André Luis
 
-- 🌱 Estudando MySQL
+- 🌱 Estudando PostgreSQL
 - 😄 Pronouns: ele/dele
 
 <div style="display: flex; widht:100vw"><br>
