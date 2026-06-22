@@ -1,4 +1,4 @@
-### Olá! Eu sou o André Luis
+### Olá! Eu sou o André Santos
 
 - 🌱 Estudando PostgreSQL
 - 😄 Pronouns: ele/dele
